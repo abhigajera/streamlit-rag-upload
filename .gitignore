@@ -1,0 +1,12 @@
+# .gitignore content
+# 1. Python environment files
+venv/
+__pycache__/
+*.pyc
+
+# 2. Streamlit Secret file (CRUCIAL)
+.streamlit/secrets.toml
+
+# 3. Temporary data files (if any are created locally)
+*.log
+*.sqlite

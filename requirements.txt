@@ -1,0 +1,6 @@
+streamlit
+google-genai
+langchain-community
+langchain-chroma
+pypdf
+sentence-transformers
