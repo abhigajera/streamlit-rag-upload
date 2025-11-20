@@ -1,5 +1,5 @@
 import streamlit as st
-import google.generativeai as genai
+from google import genai# Assuming this is the module name for the SDK
 import os
 import tempfile
 from typing import List, Dict
